@@ -1,0 +1,44 @@
+<div class="hero-unit" id="sign-up-hero-unit">
+	<h2>Sign Up</h2>
+
+  <h3>All fields are required.</h3>
+  <br />
+
+<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name)) do |f| %>
+  <%= devise_error_messages! %>
+
+  <div><%= f.label :name %>
+  <%= f.text_field :name, :autofocus => true %></div>
+
+  <br />
+  <div><%= f.label :email %>
+  <%= f.email_field :email%></div>
+
+  <div><%= f.label "Password (minimum 8 characters)" %>
+  <%= f.password_field :password %></div>
+
+  <br />
+  <div><%= f.label :password_confirmation %>
+  <%= f.password_field :password_confirmation %></div>
+
+  <br />
+  <div>
+   <%= label :sex, "Gender" %>
+   <%= f.radio_button :gender, "Male" %>
+   <%= label :user_gender, "Male"  %>
+   <%= f.radio_button :gender, "Female" %>
+   <%= label :user_gender, "Female"%>
+  </div>
+
+  <br />
+  <div>
+    <%= label :user_photo, "Upload your photo" %>
+    <%= f.file_field :photo %>
+  </div>
+
+  <div><%= f.submit "Sign up", class: "btn btn-success", id: "login-signup-button" %></div>
+<% end %>
+
+<%= render "devise/shared/links" %>
+
+</div>

@@ -1,0 +1,21 @@
+<h1>Your pledges</h1>
+
+</br>
+</br>
+</br>
+</br>
+
+<table class="pledges">
+  <tr>
+    <th>Pledge title</th>
+    <th>Pledge description</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<%= render @pledges, :user => current_user %>
+</table>
+
+<br />
+
+<%= link_to 'New Pledge', new_pledge_path, {:id => 'new-pledge-link'} %>

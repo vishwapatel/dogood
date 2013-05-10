@@ -1,0 +1,66 @@
+<div class="row">
+<div class="span4">
+<div class="well" id="profile-info">
+<h1><%= @user.name %></h1>
+
+	<%= image_tag @user.photo.url(:small), :class => "profile-pic" %>
+	<div class="profile-follow-btn">
+
+		<% if current_user == @user %>
+
+		<% elsif current_user.following?(@user) %>
+		  <%= render 'unfollow', :user => @user %>
+		<% else %>
+		  <%= render 'follow', :user => @user %>
+		<% end %>
+	</div>
+
+<p>
+  <h4><%= @user.email %></h4>
+</p>
+
+<p>
+  <b>Gender:</b>
+  <%= @user.gender %>
+</p>
+
+<% if @user == current_user %>
+	<%= link_to 'Edit', edit_user_path(@user) %> |
+<% end %>
+
+<%= link_to_function 'Back', 'window.history.go(-1)'%>
+</div>
+</div>
+<div class="span12">
+<div class="well">
+<h3><%= @user.name %>'s recent pledges</h3>
+
+</br>
+<h4>These are the pledges <%= @user.name %>'s made in the last month!</h4>
+
+</br>
+
+<% if current_user.following?(@user) or current_user == @user%>
+<table class="pledges">
+
+  <tr>
+    <th>Pledge title</th>
+    <th>Pledge description</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<%= render @pledges, :user => @user %>
+
+</table>
+
+<% if current_user == @user %>
+<%= link_to 'New Pledge', new_pledge_path, :id => 'new-pledge-link' %>
+<% end %>
+
+<% else %>
+<h3> Follow <%= @user.name %> to view <%= @user.gender == 'Male' ? 'his' : 'her' %> pledges </h3>
+<% end %>
+</div>
+</div>
+</div>

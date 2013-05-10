@@ -1,0 +1,31 @@
+<h1>Your Recent Pledges</h1>
+
+</br>
+</br>
+
+<h4>These are the pledges you've made in the last month!</h4>
+
+</br>
+</br>
+
+<table class="pledges">
+  <tr>
+    <th>Pledge title</th>
+    <th>Pledge description</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @pledges.each do |pledge| %>
+  <tr>
+    <td><%= pledge.pledge_title %></td>
+    <td><%= pledge.pledge_description %></td>
+    <td><%= button_to "Edit", edit_pledge_path(pledge), :class => "btn btn-primary btn-small", :method => :get %></td>
+    <td><%= button_to "Delete", pledge, :class => "btn btn-danger btn-small", :method => :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Pledge', new_pledge_path, :id => "new-pledge-link" %>

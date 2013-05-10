@@ -1,0 +1,27 @@
+<h1><%= pluralize(@users.length, 'user') + " found" %></h1>
+</br>
+</br>
+
+<% @users.each do |user| %>
+<div class="hero-unit">
+  <p>
+  <h4><%= link_to user.name, user %></h4>
+  <br />
+  <div class="image-follow">
+  <%= link_to image_tag(user.photo.url(:thumb), :class => "img-circle"), user %>
+
+  <% if current_user == user %>
+
+  <% elsif current_user.following?(user) %>
+    <%= render 'unfollow', :user => user %>
+  <% else %>
+    <%= render 'follow', :user => user %>
+  <% end %>
+  </div>
+  <br />
+  <%= user.email %>
+  <br />
+  <br />
+  </p>
+</div>
+<% end %>

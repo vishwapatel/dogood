@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Pledge title:</b>
+  <%= @pledge.pledge_title %>
+</p>
+
+<p>
+  <b>Pledge description:</b>
+  <%= @pledge.pledge_description %>
+</p>
+
+<%= button_to "Edit", edit_pledge_path(@pledge), :class => "btn btn-primary btn-small", :method => :get%>
+<%= link_to_function 'Back', 'window.history.go(-1)'%>
+
