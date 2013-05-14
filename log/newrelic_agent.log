@@ -1,0 +1,488 @@
+# Logfile created on 2013-04-27 01:47:42 -0400 by logger.rb/31641
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Starting the New Relic agent in "development" environment.
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Reading configuration from config/newrelic.yml
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Environment: development
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Dispatcher: webrick
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] WARN : Agent configured not to send data in this environment.
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Installing ActiveRecord instrumentation
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Installing Net instrumentation
+[04/27/13 01:47:42 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Installing Rails 3 Controller instrumentation
+[04/27/13 01:47:43 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/27/13 01:47:43 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Installing Rails3 Error instrumentation
+[04/27/13 01:47:43 -0400 Vishwas-MacBook-Air.local (11893)] INFO : Finished instrumentation
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Starting the New Relic agent in "development" environment.
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Reading configuration from config/newrelic.yml
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Environment: development
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Dispatcher: webrick
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] WARN : Agent configured not to send data in this environment.
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Installing ActiveRecord instrumentation
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Installing Net instrumentation
+[04/27/13 16:33:06 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Installing Rails 3 Controller instrumentation
+[04/27/13 16:33:07 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/27/13 16:33:07 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Installing Rails3 Error instrumentation
+[04/27/13 16:33:07 -0400 Vishwas-MacBook-Air.local (12825)] INFO : Finished instrumentation
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Starting the New Relic agent in "development" environment.
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Reading configuration from config/newrelic.yml
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Environment: development
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : No known dispatcher detected.
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] WARN : Agent configured not to send data in this environment.
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Installing ActiveRecord instrumentation
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Installing Net instrumentation
+[04/27/13 17:23:16 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Installing Rails 3 Controller instrumentation
+[04/27/13 17:23:17 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/27/13 17:23:17 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Installing Rails3 Error instrumentation
+[04/27/13 17:23:17 -0400 Vishwas-MacBook-Air.local (13030)] INFO : Finished instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Reading configuration from config/newrelic.yml
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Environment: development
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Dispatcher: webrick
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] WARN : Agent configured not to send data in this environment.
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Installing ActiveRecord instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Installing Net instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Installing Rails 3 Controller instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Installing Rails3 Error instrumentation
+[05/05/13 16:20:55 -0400 Vishwas-MacBook-Air.local (3721)] INFO : Finished instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Reading configuration from config/newrelic.yml
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Environment: development
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Dispatcher: webrick
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] WARN : Agent configured not to send data in this environment.
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Installing ActiveRecord instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Installing Net instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Installing Rails 3 Controller instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Installing Rails3 Error instrumentation
+[05/05/13 19:02:07 -0400 Vishwas-MacBook-Air.local (4039)] INFO : Finished instrumentation
+[05/05/13 20:47:13 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:47:14 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:47:14 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:47:25 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:47:25 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:49:56 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:49:56 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:50:22 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:50:22 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:51:08 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:51:08 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:52:02 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 20:52:02 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/05/13 21:04:05 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments(1 for 0)
+[05/05/13 21:04:05 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments(1 for 0)
+[05/05/13 21:04:26 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: String can't be coerced into Fixnum
+[05/05/13 21:04:26 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: String can't be coerced into Fixnum
+[05/05/13 21:09:16 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/models/pledge.rb:19: syntax error, unexpected $end, expecting keyword_end
+[05/05/13 21:15:38 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/controllers/users_controller.rb:97: syntax error, unexpected $end, expecting keyword_end
+[05/05/13 21:15:58 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/05/13 21:15:58 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 00:19:09 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 00:19:09 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 00:20:54 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".
+[05/06/13 00:20:54 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".
+[05/06/13 00:24:25 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 00:24:25 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 00:26:26 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 00:26:26 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 03:37:40 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 03:37:40 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 03:40:34 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 03:40:34 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/06/13 03:41:11 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:41:11 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:41:56 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:41:56 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:42:45 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:42:45 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:58:19 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 03:58:19 -0400 Vishwas-MacBook-Air.local (4039)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `length' for nil:NilClass
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Environment: development
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : No known dispatcher detected.
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] WARN : Agent configured not to send data in this environment.
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Installing Net instrumentation
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 14:19:42 -0400 Vishwas-MacBook-Air.local (5590)] INFO : Finished instrumentation
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Environment: development
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : No known dispatcher detected.
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] WARN : Agent configured not to send data in this environment.
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Installing Net instrumentation
+[05/06/13 15:55:34 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 15:55:35 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 15:55:35 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 15:55:35 -0400 Vishwas-MacBook-Air.local (94485)] INFO : Finished instrumentation
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Environment: development
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : No known dispatcher detected.
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] WARN : Agent configured not to send data in this environment.
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Installing Net instrumentation
+[05/06/13 15:56:08 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 15:56:09 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 15:56:09 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 15:56:09 -0400 Vishwas-MacBook-Air.local (94495)] INFO : Finished instrumentation
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Environment: development
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : No known dispatcher detected.
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] WARN : Agent configured not to send data in this environment.
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Installing Net instrumentation
+[05/06/13 15:56:48 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 15:56:49 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 15:56:49 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 15:56:49 -0400 Vishwas-MacBook-Air.local (94498)] INFO : Finished instrumentation
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Environment: development
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : No known dispatcher detected.
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] WARN : Agent configured not to send data in this environment.
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Installing Net instrumentation
+[05/06/13 16:01:17 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 16:01:18 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 16:01:18 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 16:01:18 -0400 Vishwas-MacBook-Air.local (94514)] INFO : Finished instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Environment: development
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Dispatcher: webrick
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] WARN : Agent configured not to send data in this environment.
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Installing Net instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 16:07:43 -0400 Vishwas-MacBook-Air.local (94529)] INFO : Finished instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Environment: development
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Dispatcher: webrick
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] WARN : Agent configured not to send data in this environment.
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Installing Net instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 16:09:44 -0400 Vishwas-MacBook-Air.local (94548)] INFO : Finished instrumentation
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Environment: development
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Dispatcher: webrick
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] WARN : Agent configured not to send data in this environment.
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Installing Net instrumentation
+[05/06/13 16:29:01 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 16:29:02 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 16:29:02 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 16:29:02 -0400 Vishwas-MacBook-Air.local (94611)] INFO : Finished instrumentation
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Environment: development
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : No known dispatcher detected.
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] WARN : Agent configured not to send data in this environment.
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Installing Net instrumentation
+[05/06/13 18:30:07 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 18:30:08 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 18:30:08 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 18:30:08 -0400 Vishwas-MacBook-Air.local (94858)] INFO : Finished instrumentation
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Environment: development
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Dispatcher: webrick
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] WARN : Agent configured not to send data in this environment.
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Installing Net instrumentation
+[05/06/13 19:00:19 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 19:00:20 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 19:00:20 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 19:00:20 -0400 Vishwas-MacBook-Air.local (94956)] INFO : Finished instrumentation
+[05/06/13 22:53:17 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users"}
+[05/06/13 22:53:49 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with id=follow
+[05/06/13 22:53:49 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with id=follow
+[05/06/13 22:54:42 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users"}
+[05/06/13 22:54:42 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users"}
+[05/06/13 22:55:07 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 22:55:07 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 22:55:13 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"user#follow", :controller=>"users"}
+[05/06/13 22:55:13 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"user#follow", :controller=>"users"}
+[05/06/13 23:01:36 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:01:36 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:01:46 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:01:46 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:08 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:08 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:09 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:09 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:29 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:03:29 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:03:38 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:03:38 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:14:05 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:14:05 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:14:11 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:14:11 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"follow", :controller=>"users", :id=>nil}
+[05/06/13 23:15:09 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:15:09 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:21:29 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:21:29 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:21:43 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:21:43 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:06 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:06 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:07 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:07 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:19 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:19 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:24 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:24 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"userfollow", :controller=>"users"}
+[05/06/13 23:22:33 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:22:33 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:24:19 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:24:19 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:24:33 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:24:33 -0400 Vishwas-MacBook-Air.local (94956)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Reading configuration from config/newrelic.yml
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Environment: development
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Dispatcher: webrick
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] WARN : Agent configured not to send data in this environment.
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Installing ActiveRecord instrumentation
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Installing Net instrumentation
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Installing Rails 3 Controller instrumentation
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Installing Rails3 Error instrumentation
+[05/06/13 23:24:47 -0400 Vishwas-MacBook-Air.local (95306)] INFO : Finished instrumentation
+[05/07/13 02:19:25 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: too few arguments
+[05/07/13 02:20:22 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:20:22 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:20:28 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: too few arguments
+[05/07/13 02:20:28 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: too few arguments
+[05/07/13 02:21:40 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:21:40 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:21:47 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: too few arguments
+[05/07/13 02:21:47 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: too few arguments
+[05/07/13 02:23:07 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:23:07 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:26:18 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:26:18 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:29:22 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:29:22 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:30:09 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:30:09 -0400 Vishwas-MacBook-Air.local (95306)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/unfollow, application/unfollow with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Starting the New Relic agent in "development" environment.
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Reading configuration from config/newrelic.yml
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Environment: development
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Dispatcher: webrick
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/07/13 02:30:46 -0400 Vishwas-MacBook-Air.local (95623)] WARN : Agent configured not to send data in this environment.
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Installing ActiveRecord instrumentation
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Installing Net instrumentation
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Installing Rails 3 Controller instrumentation
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Installing Rails3 Error instrumentation
+[05/07/13 02:30:47 -0400 Vishwas-MacBook-Air.local (95623)] INFO : Finished instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Starting the New Relic agent in "development" environment.
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Reading configuration from config/newrelic.yml
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Environment: development
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Dispatcher: webrick
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] WARN : Agent configured not to send data in this environment.
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Installing ActiveRecord instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Installing Net instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Installing Rails 3 Controller instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Installing Rails3 Error instrumentation
+[05/07/13 15:11:54 -0400 Vishwas-MacBook-Air.local (96148)] INFO : Finished instrumentation
+[05/07/13 15:46:23 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:47:20 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:47:20 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:47:22 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:47:22 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:58:18 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 15:58:18 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=recent_pledges
+[05/07/13 16:26:57 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/controllers/users_controller.rb:74: syntax error, unexpected tASSOC
+      format.json { render json: => {@user, @pledges}
+                                   ^
+[05/07/13 16:28:51 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/controllers/users_controller.rb:74: syntax error, unexpected tASSOC
+...  format.json { render json: => @user.to_json(:include => @u...
+...                               ^
+[05/07/13 16:41:25 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/users/show.html.erb:34: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...urrent_user.following?(@user) );@output_buffer.safe_concat('
+...                               ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:55: syntax error, unexpected keyword_else, expecting ')'
+'); else 
+        ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:57: syntax error, unexpected keyword_end, expecting ')'
+'); end 
+       ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:59: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:61: syntax error, unexpected keyword_end, expecting ')'
+[05/07/13 16:41:25 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/users/show.html.erb:34: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...urrent_user.following?(@user) );@output_buffer.safe_concat('
+...                               ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:55: syntax error, unexpected keyword_else, expecting ')'
+'); else 
+        ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:57: syntax error, unexpected keyword_end, expecting ')'
+'); end 
+       ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:59: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:61: syntax error, unexpected keyword_end, expecting ')'
+[05/07/13 16:51:43 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `his' for #<#<Class:0x007fefb1c7ce98>:0x007fefb436cbc0>
+[05/07/13 16:51:43 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `his' for #<#<Class:0x007fefb1c7ce98>:0x007fefb436cbc0>
+[05/07/13 17:51:48 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/pledges/_form.html.erb:24: syntax error, unexpected tASSOC, expecting tCOLON2 or '[' or '.'
+...r.append= ( f.submit, :class => "btn btn-success" );@output_...
+...                               ^
+[05/07/13 17:51:48 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/pledges/_form.html.erb:24: syntax error, unexpected tASSOC, expecting tCOLON2 or '[' or '.'
+...r.append= ( f.submit, :class => "btn btn-success" );@output_...
+...                               ^
+[05/07/13 17:52:02 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/pledges/_form.html.erb:24: syntax error, unexpected tLABEL, expecting '='
+...ffer.append= ( f.submit, class: "btn btn-success" );@output_...
+...                               ^
+[05/07/13 17:52:02 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/pledges/_form.html.erb:24: syntax error, unexpected tLABEL, expecting '='
+...ffer.append= ( f.submit, class: "btn btn-success" );@output_...
+...                               ^
+[05/07/13 18:48:37 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".
+[05/07/13 18:48:37 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Render and/or redirect were called multiple times in this action. Please note that you may only call render OR redirect, and at most once per action. Also note that neither redirect nor render terminate execution of the action, so if you want to exit an action after redirecting, you need to do something like "redirect_to(...) and return".
+[05/07/13 18:53:18 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:53:18 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:55:41 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/users/show.html.erb:37: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...ser) or @user == current_user );@output_buffer.safe_concat('
+...                               ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:58: syntax error, unexpected keyword_else, expecting ')'
+'); else 
+        ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+'); end 
+       ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:62: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:64: syntax error, unexpected keyword_end, expecting ')'
+[05/07/13 18:55:41 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/views/users/show.html.erb:37: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...ser) or @user == current_user );@output_buffer.safe_concat('
+...                               ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:58: syntax error, unexpected keyword_else, expecting ')'
+'); else 
+        ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+'); end 
+       ^
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:62: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/vishwa/code/vishapp/app/views/users/show.html.erb:64: syntax error, unexpected keyword_end, expecting ')'
+[05/07/13 18:55:51 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:55:51 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:56:47 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:56:47 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:56:54 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:56:54 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:12 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:12 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:13 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:13 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:15 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:15 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:21 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 18:57:21 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:02:38 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:02:38 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:08:33 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `curernt_user' for #<#<Class:0x007fefb22b32a8>:0x007fefb5913820>
+[05/07/13 19:08:33 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `curernt_user' for #<#<Class:0x007fefb22b32a8>:0x007fefb5913820>
+[05/07/13 19:09:15 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:09:15 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:09:23 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:09:23 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:11:01 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:11:01 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `each' for nil:NilClass
+[05/07/13 19:34:03 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/controllers/users_controller.rb:94: syntax error, unexpected ':', expecting keyword_then or ';' or '\n'
+[05/07/13 19:34:20 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: /Users/vishwa/code/vishapp/app/controllers/users_controller.rb:94: syntax error, unexpected ':', expecting keyword_then or ';' or '\n'
+/Users/vishwa/code/vishapp/app/controllers/users_controller.rb:144: syntax error, unexpected keyword_end, expecting $end
+[05/07/13 19:34:49 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/Nice try bud, application/Nice try bud with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 19:34:49 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/Nice try bud, application/Nice try bud with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/vishwa/code/vishapp/app/views"
+  * "/Users/vishwa/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.2.3/app/views"
+
+[05/07/13 19:48:45 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=8
+[05/07/13 19:48:45 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Pledge with id=8
+[05/07/13 20:06:06 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with id=4
+[05/07/13 20:06:06 -0400 Vishwas-MacBook-Air.local (96148)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with id=4
